@@ -1,0 +1,2 @@
+rootProject.name = 'jdk9-httpclient-tests'
+include 'httpclient'
